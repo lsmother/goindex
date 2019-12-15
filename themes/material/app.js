@@ -67,10 +67,10 @@ function list(path){
 	  <ul class="mdui-list"> 
 	   <li class="mdui-list-item th"> 
 	    <div class="mdui-col-xs-12 mdui-col-sm-7">
-	     Name
+	     Name Files
 	    </div> 
 	    <div class="mdui-col-sm-3 mdui-text-right">
-	     Date Time
+	     Time of Creation
 	    </div> 
 	    <div class="mdui-col-sm-2 mdui-text-right">
 	     Size
